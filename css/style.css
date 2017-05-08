@@ -5,3 +5,12 @@
 #hjh{
    border-bottom: 1px solid grey; 
 }
+
+p{
+    margin-left: 10px;
+    margin-right: 40px;
+}
+
+.list-inline{
+    display: inline-block;
+}
